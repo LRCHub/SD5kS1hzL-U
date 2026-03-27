@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Good Lookin'",
+  "base_artist": "Dixon Dallas",
+  "createdAt": "2026-03-27T13:19:49.757093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/01_Hey_Good_Lookin'_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin'",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/02_Hey,_Good_Lookin'_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Lookin' Out",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/03_Good_Lookin'_Out_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin'",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/04_Hey,_Good_Lookin'_Gene_Vincent.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Gene Vincent & His Blue Caps",
+      "has_synced": false,
+      "path": "select/05_Hey_Good_Lookin'_Gene_Vincent_&_His_Blue_Caps.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin’",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/06_Hey,_Good_Lookin’_Gene_Vincent.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Lookin' Woman",
+      "artist": "Norman Greenbaum",
+      "has_synced": false,
+      "path": "select/07_Good_Lookin'_Woman_Norman_Greenbaum.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Lookin' Man",
+      "artist": "LeAnn Rimes",
+      "has_synced": false,
+      "path": "select/08_Good_Lookin'_Man_LeAnn_Rimes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Good Lookin' (Live)",
+      "artist": "Jimmy Buffett",
+      "has_synced": false,
+      "path": "select/09_Hey_Good_Lookin'_(Live)_Jimmy_Buffett.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/10_Hey_Good_Lookin'_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin'",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/11_Hey,_Good_Lookin'_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Dave Edmunds",
+      "has_synced": false,
+      "path": "select/12_Hey_Good_Lookin'_Dave_Edmunds.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/13_Hey_Good_Lookin'_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin'",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/14_Hey,_Good_Lookin'_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Good Lookin'",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/15_Hey_Good_Lookin'_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin' (Live at the Troubadour)",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/16_Hey,_Good_Lookin'_(Live_at_the_Troubadour)_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hey, Good Lookin’",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/17_Hey,_Good_Lookin’_Van_Morrison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Lookin'",
+      "artist": "Dixon Dallas",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Lookin'_Dixon_Dallas.txt"
+    }
+  ]
+}
